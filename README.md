@@ -19,7 +19,7 @@ eProject Published at: https://luuductai23.github.io/eProject/MyTiles/MyTiles/Ho
 
 ============================
 
-eProject Documentation at: https://luuductai23.github.io/eProject/MyTiles/Document/
+eProject Documentation at: https://github.com/LuuDucTai23/eProject/tree/master/MyTiles/Document
 
 ============================
 
