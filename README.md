@@ -15,7 +15,7 @@ Project Title: MyTiles
      Phạm Chánh Lý - Student1368182
 ============================
 
-eProject Published at: https://luuductai23.github.io/eProject/
+eProject Published at: https://luuductai23.github.io/eProject/MyTiles/MyTiles/Homepage_HTML/HomePage.html
 
 ============================
 
